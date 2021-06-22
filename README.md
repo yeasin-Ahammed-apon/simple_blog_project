@@ -16,9 +16,9 @@ __________________________________________
 - make categories 
         - name 
 - make post
-        - title
-        - details
-        - image
-        - user_id --> relation with users table id
-        - categories_id --> relation with categorires table id
+    - title
+    - details
+    - image
+    - user_id --> relation with users table id
+    - categories_id --> relation with categorires table id
                 
